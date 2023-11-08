@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/asplweb/static/css/main.478ac155.css",
+    "main.js": "/asplweb/static/js/main.0cec4959.js",
+    "static/js/787.e9dcfa09.chunk.js": "/asplweb/static/js/787.e9dcfa09.chunk.js",
+    "static/media/logo.svg": "/asplweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/asplweb/index.html",
+    "main.478ac155.css.map": "/asplweb/static/css/main.478ac155.css.map",
+    "main.0cec4959.js.map": "/asplweb/static/js/main.0cec4959.js.map",
+    "787.e9dcfa09.chunk.js.map": "/asplweb/static/js/787.e9dcfa09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478ac155.css",
+    "static/js/main.0cec4959.js"
+  ]
+}
